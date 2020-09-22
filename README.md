@@ -7,7 +7,9 @@ To be able to deal with the elements of the gaming plateform at run-time, the gr
 
 Each GUI available for the program must be used as a shared library that will be loaded and used dynamically by the main program.
 
-Operating system: Fedora
-Graphic library: SFML, Allegro, Ncurses
+Operating system: Fedora  
+Graphic library: SFML, Allegro, Ncurses  
+
+Usage: ./arcade lib_path (ex: ./arcade ./lib/lib_arcade_sfml.so)  
 
 KeyNote: 95/125
